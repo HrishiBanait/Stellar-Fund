@@ -201,13 +201,13 @@ Component classes follow a consistent naming pattern — `.btn-gold`, `.btn-ghos
 
 ---
 Test-
-!image_alt(https://github.com/HrishiBanait/Stellar-Fund/blob/main/Screenshots/Screenshot%202026-04-30%20115600.png)
+![image_alt](https://github.com/HrishiBanait/Stellar-Fund/blob/main/Screenshots/Screenshot%202026-04-30%20115600.png)
 
 
 Screenshots-
-!image_alt(https://github.com/HrishiBanait/Stellar-Fund/blob/main/Screenshot%202026-04-30%20134153.png)
-!image_alt(https://github.com/HrishiBanait/Stellar-Fund/blob/main/Screenshots/Screenshot%202026-04-30%20133352.png)
-!image_alt(https://github.com/HrishiBanait/Stellar-Fund/blob/main/Screenshots/Screenshot%202026-04-30%20131345.png)
+![image_alt](https://github.com/HrishiBanait/Stellar-Fund/blob/main/Screenshot%202026-04-30%20134153.png)
+![image_alt](https://github.com/HrishiBanait/Stellar-Fund/blob/main/Screenshots/Screenshot%202026-04-30%20133352.png)
+![image_alt](https://github.com/HrishiBanait/Stellar-Fund/blob/main/Screenshots/Screenshot%202026-04-30%20131345.png)
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
