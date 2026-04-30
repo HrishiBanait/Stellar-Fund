@@ -200,25 +200,14 @@ Component classes follow a consistent naming pattern — `.btn-gold`, `.btn-ghos
 - **Browser extension required** — Mobile browsers without extension support cannot connect a wallet.
 
 ---
+Test-
+!image_alt(https://github.com/HrishiBanait/Stellar-Fund/blob/main/Screenshots/Screenshot%202026-04-30%20115600.png)
 
-## Contributing
 
-Contributions are welcome. To get started:
-
-```bash
-# Fork the repo, then create a feature branch
-git checkout -b feature/your-feature-name
-
-# Make your changes, then push
-git push origin feature/your-feature-name
-
-# Open a pull request against main
-```
-
-Please open an issue first for significant changes so we can discuss the approach.
-
----
-
+Screenshots-
+!image_alt(https://github.com/HrishiBanait/Stellar-Fund/blob/main/Screenshot%202026-04-30%20134153.png)
+!image_alt(https://github.com/HrishiBanait/Stellar-Fund/blob/main/Screenshots/Screenshot%202026-04-30%20133352.png)
+!image_alt(https://github.com/HrishiBanait/Stellar-Fund/blob/main/Screenshots/Screenshot%202026-04-30%20131345.png)
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
