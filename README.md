@@ -10,7 +10,7 @@
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![License](https://img.shields.io/badge/License-MIT-4ec98d?style=flat-square)](#license)
 
-[View Contract on Explorer](https://stellar.expert) · [Live Demo](#) · [Report a Bug](../../issues)
+[🌐 Live Website](https://stellar-fund-xi.vercel.app/) · [▶ Video Demo](https://youtu.be/BNZtqIr4de8) · [View Contract on Explorer](https://stellar.expert) · [Report a Bug](../../issues)
 
 </div>
 
@@ -62,7 +62,7 @@ The interface is designed for clarity and speed: connect a wallet in one click, 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/HrishiBanit/Stellar-Fund.git
+git clone https://github.com/your-username/stellar-fund.git
 cd stellar-fund
 
 # 2. Install dependencies
@@ -192,7 +192,32 @@ Component classes follow a consistent naming pattern — `.btn-gold`, `.btn-ghos
 
 ---
 
+## Known Limitations
 
+- **Testnet only** — This project runs exclusively on the Stellar testnet. Do not send real XLM.
+- **No wallet persistence** — Wallet connections are not persisted across page reloads; reconnect on each visit.
+- **Friendbot rate limits** — The Friendbot faucet may reject requests if an account has already been funded recently.
+- **Browser extension required** — Mobile browsers without extension support cannot connect a wallet.
+
+---
+
+## Contributing
+
+Contributions are welcome. To get started:
+
+```bash
+# Fork the repo, then create a feature branch
+git checkout -b feature/your-feature-name
+
+# Make your changes, then push
+git push origin feature/your-feature-name
+
+# Open a pull request against main
+```
+
+Please open an issue first for significant changes so we can discuss the approach.
+
+---
 
 ## License
 
